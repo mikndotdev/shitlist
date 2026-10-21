@@ -29,8 +29,9 @@ jobs:
           INGRESSI_API_TOKEN: ${{ secrets.INGRESSI_API_TOKEN }}
       - name: Commit changes
         run: |
-          git diff --quiet restricted-ips.txt && exit 0
+          git add restricted-ips.txt
+          git diff --cached --quiet && exit 0
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update restricted IPs" restricted-ips.txt
+          git commit -m "Update restricted IPs"
           git push
