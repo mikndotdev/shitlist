@@ -1,0 +1,22 @@
+name: Rotate lure domains
+
+on:
+  schedule:
+    - cron: "5 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - uses: tailscale/github-action@v4
+        with:
+          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
+          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          tags: tag:ci
+      - run: bun src/rotate-lure-domains.ts
+        env:
+          INGRESSI_URL: ${{ secrets.INGRESSI_URL }}
+          INGRESSI_API_TOKEN: ${{ secrets.INGRESSI_API_TOKEN }}
