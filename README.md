@@ -9,7 +9,8 @@ List of IPs that scrape restricted paths, such as `.env` and various restricted 
 <br><br>
 We also add a "lure domain" to our proxy once a day, to catch scrapers looking at new entries in Certificate Transparency logs.
 <br><br>
-This repository is automatically updated every hour, and IPs found are in [restricted-ips.txt](restricted-ips.txt)
+This repository is automatically updated every hour, and IPs found are in [restricted-ips.txt](restricted-ips.txt). 
+A file listing IPs by country and ASN can be found in [analytics.md](analytics.md)
 
 ## Retention Policy
 
