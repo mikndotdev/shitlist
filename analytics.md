@@ -1,43 +1,43 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 397 IPs, 16582 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 402 IPs, 16196 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 98 | 1857 |
-| Netherlands (NL) | 42 | 1511 |
-| France (FR) | 34 | 298 |
-| Brazil (BR) | 29 | 653 |
-| Germany (DE) | 26 | 698 |
-| Belgium (BE) | 22 | 3561 |
-| Lithuania (LT) | 13 | 1907 |
-| Bulgaria (BG) | 8 | 672 |
+| United States (US) | 103 | 1911 |
+| Netherlands (NL) | 42 | 1505 |
+| France (FR) | 34 | 296 |
+| Brazil (BR) | 30 | 406 |
+| Germany (DE) | 26 | 700 |
+| Belgium (BE) | 22 | 3552 |
+| Lithuania (LT) | 12 | 1736 |
 | Singapore (SG) | 8 | 660 |
-| Spain (ES) | 7 | 992 |
-| Italy (IT) | 6 | 734 |
-| United Kingdom (GB) | 6 | 85 |
+| Bulgaria (BG) | 8 | 659 |
+| Spain (ES) | 7 | 988 |
+| Italy (IT) | 6 | 735 |
+| United Kingdom (GB) | 6 | 86 |
 | Canada (CA) | 5 | 279 |
-| Japan (JP) | 5 | 89 |
+| Japan (JP) | 5 | 90 |
 | Russia (RU) | 5 | 5 |
-| India (IN) | 4 | 492 |
-| Australia (AU) | 4 | 247 |
+| India (IN) | 4 | 495 |
+| Australia (AU) | 4 | 250 |
 | Morocco (MA) | 4 | 4 |
 | Pakistan (PK) | 4 | 4 |
 | Mexico (MX) | 4 | 4 |
 | Vietnam (VN) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| South Korea (KR) | 3 | 480 |
+| South Korea (KR) | 3 | 481 |
 | Taiwan (TW) | 3 | 291 |
 | South Africa (ZA) | 3 | 247 |
-| Chile (CL) | 3 | 246 |
+| Chile (CL) | 3 | 245 |
 | Finland (FI) | 3 | 36 |
 | Sweden (SE) | 3 | 5 |
 | Argentina (AR) | 3 | 3 |
 | Venezuela (VE) | 3 | 3 |
-| Ireland (IE) | 2 | 70 |
-| Hong Kong (HK) | 2 | 36 |
+| Ireland (IE) | 2 | 71 |
+| Hong Kong SAR China (HK) | 2 | 36 |
 | Peru (PE) | 2 | 2 |
 | Algeria (DZ) | 2 | 2 |
 | Poland (PL) | 2 | 2 |
@@ -55,7 +55,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 397 
 | Nigeria (NG) | 1 | 1 |
 | Kenya (KE) | 1 | 1 |
 | Ukraine (UA) | 1 | 1 |
-| China mainland (CN) | 1 | 1 |
+| China (CN) | 1 | 1 |
 | Norway (NO) | 1 | 1 |
 | Uruguay (UY) | 1 | 1 |
 | Romania (RO) | 1 | 1 |
@@ -64,27 +64,27 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 397 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 62 | 8217 |
-| AS60068 Datacamp Limited | 51 | 1571 |
-| Unknown | 25 | 1775 |
-| AS212238 Datacamp Limited | 23 | 112 |
+| AS396982 Google LLC | 63 | 8254 |
+| AS60068 Datacamp Limited | 51 | 1577 |
+| AS212238 Datacamp Limited | 24 | 113 |
+| Unknown | 23 | 1342 |
 | AS14061 DigitalOcean, LLC | 17 | 199 |
-| AS218785 Tc Datacenter Limited | 11 | 1693 |
+| AS218785 Tc Datacenter Limited | 11 | 1710 |
 | AS202412 Omegatech LTD | 11 | 413 |
-| AS48090 Techoff Srv Limited | 9 | 1102 |
+| AS48090 Techoff Srv Limited | 9 | 1085 |
 | AS13335 Cloudflare, Inc. | 9 | 43 |
 | AS219502 Storm Industries LLC | 9 | 34 |
 | AS20473 The Constant Company, LLC | 9 | 9 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 7 | 7 |
 | AS55286 B2 Net Solutions Inc. | 7 | 7 |
 | AS32934 Facebook, Inc. | 6 | 7 |
-| AS16509 Amazon.com, Inc. | 5 | 203 |
+| AS16509 Amazon.com, Inc. | 5 | 199 |
 | AS197170 TechTies Inc. | 5 | 77 |
 | AS403005 Blatant | 5 | 14 |
+| AS62874 Web2Objects LLC | 5 | 5 |
 | AS18779 EGIHosting | 5 | 5 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 5 | 5 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 5 | 5 |
-| AS62874 Web2Objects LLC | 4 | 4 |
-| AS14618 Amazon.com, Inc. | 3 | 71 |
+| AS14618 Amazon.com, Inc. | 3 | 72 |
 | AS47890 Unmanaged Ltd | 3 | 14 |
 | AS17557 Pakistan Telecommunication Company Limited | 3 | 3 |
 | AS15169 Google LLC | 2 | 490 |
@@ -98,15 +98,17 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 397 
 | AS45899 VNPT Corp | 2 | 2 |
 | AS13999 Mega Cable, S.A. de C.V. | 2 | 2 |
 | AS21826 Corporacion Telemic C.A. | 2 | 2 |
-| AS211590 Bucklog SARL | 1 | 137 |
-| AS216014 BestDC Limited | 1 | 107 |
+| AS211590 Bucklog SARL | 1 | 135 |
+| AS216014 BestDC Limited | 1 | 109 |
 | AS53667 FranTech Solutions | 1 | 100 |
 | AS56630 Melbikomas UAB | 1 | 19 |
-| AS219200 Cryphora Limited | 1 | 7 |
+| AS219200 Cryphora Limited | 1 | 8 |
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | 6 |
 | AS31898 Oracle Corporation | 1 | 2 |
 | AS206804 Realcloud OU | 1 | 2 |
 | AS32987 Clnetworks Inc | 1 | 2 |
+| AS270589 Marcio Henrique Malaquias Junior | 1 | 1 |
+| AS53181 Avanca Telecom e Servicos LTDA | 1 | 1 |
 | AS4766 Korea Telecom | 1 | 1 |
 | AS12714 PJSC MegaFon | 1 | 1 |
 | AS52341 WOM SpA | 1 | 1 |
