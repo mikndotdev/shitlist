@@ -1,39 +1,39 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 559 IPs, 22537 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 561 IPs, 22850 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 140 | 3066 |
-| Netherlands (NL) | 73 | 1898 |
-| Germany (DE) | 47 | 1129 |
-| France (FR) | 38 | 744 |
+| United States (US) | 140 | 3061 |
+| Netherlands (NL) | 73 | 1932 |
+| Germany (DE) | 47 | 1127 |
+| France (FR) | 38 | 743 |
 | Brazil (BR) | 35 | 444 |
-| Belgium (BE) | 33 | 4491 |
-| Lithuania (LT) | 15 | 2462 |
-| United Kingdom (GB) | 11 | 127 |
+| Belgium (BE) | 34 | 4545 |
+| Lithuania (LT) | 15 | 2461 |
+| United Kingdom (GB) | 11 | 126 |
 | Canada (CA) | 10 | 1175 |
-| Bulgaria (BG) | 9 | 1140 |
+| Bulgaria (BG) | 9 | 1138 |
 | Singapore (SG) | 9 | 636 |
 | Sweden (SE) | 9 | 254 |
 | Spain (ES) | 8 | 1005 |
-| Japan (JP) | 7 | 91 |
+| Japan (JP) | 7 | 87 |
 | Italy (IT) | 6 | 734 |
 | Russia (RU) | 6 | 7 |
-| India (IN) | 5 | 494 |
-| Chile (CL) | 5 | 247 |
+| South Korea (KR) | 5 | 969 |
+| India (IN) | 5 | 492 |
+| Chile (CL) | 5 | 248 |
 | Vietnam (VN) | 5 | 5 |
-| South Korea (KR) | 4 | 729 |
-| Taiwan (TW) | 4 | 356 |
-| Australia (AU) | 4 | 250 |
+| Taiwan (TW) | 4 | 359 |
+| Australia (AU) | 4 | 247 |
 | Romania (RO) | 4 | 7 |
 | Austria (AT) | 4 | 5 |
 | Pakistan (PK) | 4 | 4 |
 | Mexico (MX) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| Hong Kong SAR China (HK) | 3 | 276 |
+| Hong Kong SAR China (HK) | 3 | 279 |
 | Switzerland (CH) | 3 | 150 |
 | South Africa (ZA) | 3 | 105 |
 | Finland (FI) | 3 | 36 |
@@ -41,7 +41,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 | Argentina (AR) | 3 | 3 |
 | Venezuela (VE) | 3 | 3 |
 | Indonesia (ID) | 2 | 242 |
-| Ireland (IE) | 2 | 71 |
+| Ireland (IE) | 2 | 70 |
 | Norway (NO) | 2 | 2 |
 | Seychelles (SC) | 2 | 2 |
 | Peru (PE) | 2 | 2 |
@@ -70,17 +70,17 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 103 | 12779 |
-| AS60068 Datacamp Limited | 56 | 1770 |
+| AS396982 Google LLC | 104 | 13056 |
+| AS60068 Datacamp Limited | 56 | 1759 |
 | AS212238 Datacamp Limited | 28 | 508 |
 | AS14061 DigitalOcean, LLC | 22 | 234 |
 | AS215125 Church of Cyberology | 20 | 27 |
-| AS218785 Tc Datacenter Limited | 14 | 2460 |
+| AS218785 Tc Datacenter Limited | 14 | 2458 |
 | Unknown | 13 | 574 |
 | AS202412 Omegatech LTD | 12 | 586 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
 | AS20473 The Constant Company, LLC | 11 | 11 |
-| AS48090 Techoff Srv Limited | 10 | 1614 |
+| AS48090 Techoff Srv Limited | 10 | 1642 |
 | AS203020 HostRoyale Technologies Pvt Ltd | 10 | 10 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
 | AS13335 Cloudflare, Inc. | 9 | 43 |
@@ -90,11 +90,12 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 | AS47890 Unmanaged Ltd | 6 | 20 |
 | AS32934 Facebook, Inc. | 6 | 7 |
 | AS62874 Web2Objects LLC | 6 | 6 |
-| AS16509 Amazon.com, Inc. | 5 | 202 |
+| AS16509 Amazon.com, Inc. | 5 | 201 |
 | AS403005 Blatant | 5 | 16 |
 | AS18779 EGIHosting | 5 | 5 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 5 | 5 |
-| AS14618 Amazon.com, Inc. | 4 | 74 |
+| AS14618 Amazon.com, Inc. | 4 | 72 |
+| AS34343 Eweka Internet Services B.V. | 3 | 100 |
 | AS215599 Zkillu SAS | 3 | 46 |
 | AS31898 Oracle Corporation | 3 | 6 |
 | AS208323 Foundation for Applied Privacy | 3 | 4 |
@@ -102,7 +103,6 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 | AS17557 Pakistan Telecommunication Company Limited | 3 | 3 |
 | AS15169 Google LLC | 2 | 490 |
 | AS53667 FranTech Solutions | 2 | 149 |
-| AS34343 Eweka Internet Services B.V. | 2 | 72 |
 | AS8075 Microsoft Corporation | 2 | 6 |
 | AS51167 Contabo GmbH | 2 | 5 |
 | AS205100 F3 Netze e.V. | 2 | 3 |
@@ -119,7 +119,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 | AS45899 VNPT Corp | 2 | 2 |
 | AS13999 Mega Cable, S.A. de C.V. | 2 | 2 |
 | AS21826 Corporacion Telemic C.A. | 2 | 2 |
-| AS211590 Bucklog SARL | 1 | 197 |
+| AS211590 Bucklog SARL | 1 | 193 |
 | AS216014 BestDC Limited | 1 | 109 |
 | AS208137 Feo Prest SRL | 1 | 30 |
 | AS199457 SolidCore Hosting LTD | 1 | 30 |
