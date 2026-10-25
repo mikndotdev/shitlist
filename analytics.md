@@ -1,41 +1,41 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 559 IPs, 22509 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 559 IPs, 22537 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 141 | 3050 |
-| Netherlands (NL) | 72 | 1846 |
-| Germany (DE) | 47 | 1124 |
-| France (FR) | 38 | 743 |
-| Brazil (BR) | 35 | 443 |
-| Belgium (BE) | 33 | 4537 |
-| Lithuania (LT) | 15 | 2456 |
-| United Kingdom (GB) | 11 | 128 |
-| Canada (CA) | 10 | 1178 |
-| Bulgaria (BG) | 9 | 1136 |
+| United States (US) | 140 | 3066 |
+| Netherlands (NL) | 73 | 1898 |
+| Germany (DE) | 47 | 1129 |
+| France (FR) | 38 | 744 |
+| Brazil (BR) | 35 | 444 |
+| Belgium (BE) | 33 | 4491 |
+| Lithuania (LT) | 15 | 2462 |
+| United Kingdom (GB) | 11 | 127 |
+| Canada (CA) | 10 | 1175 |
+| Bulgaria (BG) | 9 | 1140 |
 | Singapore (SG) | 9 | 636 |
-| Sweden (SE) | 9 | 255 |
-| Spain (ES) | 8 | 1004 |
-| Japan (JP) | 7 | 94 |
-| Italy (IT) | 6 | 732 |
+| Sweden (SE) | 9 | 254 |
+| Spain (ES) | 8 | 1005 |
+| Japan (JP) | 7 | 91 |
+| Italy (IT) | 6 | 734 |
 | Russia (RU) | 6 | 7 |
-| India (IN) | 5 | 495 |
-| Chile (CL) | 5 | 248 |
+| India (IN) | 5 | 494 |
+| Chile (CL) | 5 | 247 |
 | Vietnam (VN) | 5 | 5 |
-| South Korea (KR) | 4 | 726 |
-| Taiwan (TW) | 4 | 361 |
+| South Korea (KR) | 4 | 729 |
+| Taiwan (TW) | 4 | 356 |
 | Australia (AU) | 4 | 250 |
 | Romania (RO) | 4 | 7 |
 | Austria (AT) | 4 | 5 |
 | Pakistan (PK) | 4 | 4 |
 | Mexico (MX) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| Hong Kong SAR China (HK) | 3 | 277 |
+| Hong Kong SAR China (HK) | 3 | 276 |
 | Switzerland (CH) | 3 | 150 |
-| South Africa (ZA) | 3 | 106 |
+| South Africa (ZA) | 3 | 105 |
 | Finland (FI) | 3 | 36 |
 | Morocco (MA) | 3 | 3 |
 | Argentina (AR) | 3 | 3 |
@@ -70,27 +70,27 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 103 | 12821 |
-| AS60068 Datacamp Limited | 56 | 1765 |
+| AS396982 Google LLC | 103 | 12779 |
+| AS60068 Datacamp Limited | 56 | 1770 |
 | AS212238 Datacamp Limited | 28 | 508 |
 | AS14061 DigitalOcean, LLC | 22 | 234 |
 | AS215125 Church of Cyberology | 20 | 27 |
-| AS218785 Tc Datacenter Limited | 14 | 2454 |
-| Unknown | 14 | 575 |
-| AS202412 Omegatech LTD | 12 | 583 |
+| AS218785 Tc Datacenter Limited | 14 | 2460 |
+| Unknown | 13 | 574 |
+| AS202412 Omegatech LTD | 12 | 586 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
 | AS20473 The Constant Company, LLC | 11 | 11 |
-| AS48090 Techoff Srv Limited | 10 | 1637 |
+| AS48090 Techoff Srv Limited | 10 | 1614 |
 | AS203020 HostRoyale Technologies Pvt Ltd | 10 | 10 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
 | AS13335 Cloudflare, Inc. | 9 | 43 |
 | AS219502 Storm Industries LLC | 9 | 30 |
-| AS197170 TechTies Inc. | 7 | 106 |
+| AS197170 TechTies Inc. | 8 | 188 |
 | AS55286 B2 Net Solutions Inc. | 7 | 7 |
 | AS47890 Unmanaged Ltd | 6 | 20 |
 | AS32934 Facebook, Inc. | 6 | 7 |
 | AS62874 Web2Objects LLC | 6 | 6 |
-| AS16509 Amazon.com, Inc. | 5 | 204 |
+| AS16509 Amazon.com, Inc. | 5 | 202 |
 | AS403005 Blatant | 5 | 16 |
 | AS18779 EGIHosting | 5 | 5 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 5 | 5 |
@@ -102,7 +102,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 | AS17557 Pakistan Telecommunication Company Limited | 3 | 3 |
 | AS15169 Google LLC | 2 | 490 |
 | AS53667 FranTech Solutions | 2 | 149 |
-| AS34343 Eweka Internet Services B.V. | 2 | 75 |
+| AS34343 Eweka Internet Services B.V. | 2 | 72 |
 | AS8075 Microsoft Corporation | 2 | 6 |
 | AS51167 Contabo GmbH | 2 | 5 |
 | AS205100 F3 Netze e.V. | 2 | 3 |
@@ -119,7 +119,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 559 
 | AS45899 VNPT Corp | 2 | 2 |
 | AS13999 Mega Cable, S.A. de C.V. | 2 | 2 |
 | AS21826 Corporacion Telemic C.A. | 2 | 2 |
-| AS211590 Bucklog SARL | 1 | 194 |
+| AS211590 Bucklog SARL | 1 | 197 |
 | AS216014 BestDC Limited | 1 | 109 |
 | AS208137 Feo Prest SRL | 1 | 30 |
 | AS199457 SolidCore Hosting LTD | 1 | 30 |
