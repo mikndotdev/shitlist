@@ -1,34 +1,34 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 628 IPs, 27775 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 633 IPs, 28445 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 166 | 3475 |
-| Netherlands (NL) | 74 | 2298 |
-| Germany (DE) | 52 | 1224 |
-| France (FR) | 39 | 989 |
-| Belgium (BE) | 38 | 5162 |
-| Brazil (BR) | 37 | 446 |
+| United States (US) | 166 | 3585 |
+| Netherlands (NL) | 74 | 2291 |
+| Germany (DE) | 53 | 1225 |
+| France (FR) | 39 | 990 |
+| Belgium (BE) | 38 | 5177 |
+| Brazil (BR) | 37 | 448 |
 | Lithuania (LT) | 16 | 2586 |
 | United Kingdom (GB) | 12 | 129 |
-| Canada (CA) | 11 | 1419 |
-| Spain (ES) | 10 | 1494 |
-| Sweden (SE) | 10 | 256 |
-| Bulgaria (BG) | 9 | 1206 |
+| Spain (ES) | 11 | 1740 |
+| Canada (CA) | 11 | 1421 |
+| Sweden (SE) | 10 | 253 |
+| Bulgaria (BG) | 9 | 1221 |
 | Singapore (SG) | 9 | 636 |
-| South Korea (KR) | 7 | 1372 |
-| Japan (JP) | 7 | 90 |
-| Romania (RO) | 7 | 36 |
-| Hong Kong SAR China (HK) | 6 | 1310 |
-| India (IN) | 6 | 984 |
+| Japan (JP) | 8 | 96 |
+| Hong Kong SAR China (HK) | 7 | 1582 |
+| South Korea (KR) | 7 | 1371 |
+| Romania (RO) | 7 | 39 |
+| India (IN) | 6 | 982 |
 | Italy (IT) | 6 | 734 |
 | Chile (CL) | 6 | 494 |
 | Russia (RU) | 6 | 7 |
+| Taiwan (TW) | 5 | 368 |
 | Vietnam (VN) | 5 | 5 |
-| Taiwan (TW) | 4 | 360 |
 | Australia (AU) | 4 | 250 |
 | Thailand (TH) | 4 | 13 |
 | Austria (AT) | 4 | 5 |
@@ -37,9 +37,9 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 628 
 | Pakistan (PK) | 4 | 4 |
 | Mexico (MX) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| Switzerland (CH) | 3 | 153 |
+| Switzerland (CH) | 3 | 154 |
 | South Africa (ZA) | 3 | 106 |
-| Ireland (IE) | 3 | 88 |
+| Ireland (IE) | 3 | 89 |
 | Finland (FI) | 3 | 36 |
 | Poland (PL) | 3 | 4 |
 | Argentina (AR) | 3 | 3 |
@@ -73,31 +73,31 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 628 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 126 | 17188 |
-| AS60068 Datacamp Limited | 60 | 1857 |
-| AS212238 Datacamp Limited | 34 | 531 |
+| AS396982 Google LLC | 130 | 17739 |
+| AS60068 Datacamp Limited | 60 | 1943 |
+| AS212238 Datacamp Limited | 34 | 549 |
 | AS14061 DigitalOcean, LLC | 26 | 253 |
 | AS215125 Church of Cyberology | 20 | 27 |
 | AS13335 Cloudflare, Inc. | 15 | 59 |
 | AS218785 Tc Datacenter Limited | 14 | 2584 |
 | AS203020 HostRoyale Technologies Pvt Ltd | 13 | 30 |
 | AS20473 The Constant Company, LLC | 13 | 13 |
-| AS202412 Omegatech LTD | 12 | 612 |
+| AS202412 Omegatech LTD | 12 | 611 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
-| AS48090 Techoff Srv Limited | 10 | 1816 |
+| AS48090 Techoff Srv Limited | 10 | 1825 |
 | Unknown | 10 | 328 |
 | AS62874 Web2Objects LLC | 10 | 10 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
-| AS47890 Unmanaged Ltd | 9 | 50 |
+| AS47890 Unmanaged Ltd | 9 | 53 |
 | AS197170 TechTies Inc. | 8 | 341 |
 | AS219502 Storm Industries LLC | 8 | 26 |
 | AS55286 B2 Net Solutions Inc. | 7 | 7 |
 | AS403005 Blatant | 6 | 16 |
 | AS32934 Facebook, Inc. | 6 | 7 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 6 | 6 |
-| AS34343 Eweka Internet Services B.V. | 5 | 248 |
+| AS34343 Eweka Internet Services B.V. | 5 | 247 |
 | AS14618 Amazon.com, Inc. | 5 | 222 |
-| AS16509 Amazon.com, Inc. | 5 | 202 |
+| AS16509 Amazon.com, Inc. | 5 | 204 |
 | AS18779 EGIHosting | 5 | 5 |
 | AS215599 Zkillu SAS | 3 | 46 |
 | AS31898 Oracle Corporation | 3 | 7 |
@@ -105,7 +105,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 628 
 | AS198093 Foreningen for digitala fri- och rattigheter | 3 | 3 |
 | AS17557 Pakistan Telecommunication Company Limited | 3 | 3 |
 | AS15169 Google LLC | 2 | 490 |
-| AS53667 FranTech Solutions | 2 | 152 |
+| AS53667 FranTech Solutions | 2 | 153 |
 | AS8075 Microsoft Corporation | 2 | 6 |
 | AS51167 Contabo GmbH | 2 | 5 |
 | AS205100 F3 Netze e.V. | 2 | 3 |
@@ -137,6 +137,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 628 
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | 6 |
 | AS174 Cogent Communications, LLC | 1 | 3 |
 | AS14956 RouterHosting LLC | 1 | 3 |
+| AS149440 Evoxt Sdn. Bhd. | 1 | 2 |
 | AS41302 KVS Ltd | 1 | 2 |
 | AS16276 OVH SAS | 1 | 2 |
 | AS136557 Host Universal Pty Ltd | 1 | 2 |
