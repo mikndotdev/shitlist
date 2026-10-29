@@ -1,35 +1,35 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 637 IPs, 28682 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 639 IPs, 29163 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 168 | 3701 |
-| Netherlands (NL) | 74 | 2356 |
-| Germany (DE) | 54 | 1235 |
-| France (FR) | 40 | 991 |
-| Belgium (BE) | 38 | 5197 |
-| Brazil (BR) | 37 | 446 |
-| Lithuania (LT) | 16 | 2586 |
-| United Kingdom (GB) | 12 | 154 |
-| Spain (ES) | 11 | 1739 |
-| Canada (CA) | 11 | 1423 |
-| Sweden (SE) | 10 | 255 |
-| Bulgaria (BG) | 9 | 1218 |
+| United States (US) | 168 | 3686 |
+| Netherlands (NL) | 74 | 2361 |
+| Germany (DE) | 54 | 1233 |
+| France (FR) | 40 | 987 |
+| Belgium (BE) | 38 | 5206 |
+| Brazil (BR) | 37 | 448 |
+| Lithuania (LT) | 16 | 2539 |
+| United Kingdom (GB) | 12 | 153 |
+| Spain (ES) | 11 | 1741 |
+| Canada (CA) | 11 | 1418 |
+| Sweden (SE) | 10 | 256 |
+| Bulgaria (BG) | 9 | 1220 |
 | Singapore (SG) | 9 | 636 |
-| Japan (JP) | 8 | 95 |
-| Hong Kong SAR China (HK) | 7 | 1586 |
-| South Korea (KR) | 7 | 1366 |
+| Japan (JP) | 8 | 94 |
+| Hong Kong SAR China (HK) | 7 | 1587 |
+| South Korea (KR) | 7 | 1365 |
+| India (IN) | 7 | 1275 |
+| Italy (IT) | 7 | 978 |
 | Romania (RO) | 7 | 39 |
-| India (IN) | 6 | 983 |
-| Italy (IT) | 6 | 733 |
-| Chile (CL) | 6 | 493 |
+| Chile (CL) | 6 | 494 |
 | Russia (RU) | 6 | 7 |
-| Taiwan (TW) | 5 | 371 |
+| Taiwan (TW) | 5 | 369 |
 | Vietnam (VN) | 5 | 5 |
-| Australia (AU) | 4 | 249 |
+| Australia (AU) | 4 | 248 |
 | Thailand (TH) | 4 | 13 |
 | Austria (AT) | 4 | 5 |
 | Morocco (MA) | 4 | 4 |
@@ -73,31 +73,31 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 637 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 132 | 17874 |
-| AS60068 Datacamp Limited | 60 | 1947 |
-| AS212238 Datacamp Limited | 34 | 549 |
+| AS396982 Google LLC | 134 | 18403 |
+| AS60068 Datacamp Limited | 60 | 1948 |
+| AS212238 Datacamp Limited | 34 | 550 |
 | AS14061 DigitalOcean, LLC | 26 | 258 |
 | AS215125 Church of Cyberology | 20 | 27 |
 | AS13335 Cloudflare, Inc. | 17 | 61 |
-| AS218785 Tc Datacenter Limited | 14 | 2584 |
+| AS218785 Tc Datacenter Limited | 14 | 2538 |
 | AS203020 HostRoyale Technologies Pvt Ltd | 13 | 33 |
 | AS20473 The Constant Company, LLC | 13 | 13 |
 | AS202412 Omegatech LTD | 12 | 612 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
-| AS48090 Techoff Srv Limited | 10 | 1880 |
+| AS48090 Techoff Srv Limited | 10 | 1885 |
 | Unknown | 10 | 327 |
 | AS62874 Web2Objects LLC | 10 | 10 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
 | AS47890 Unmanaged Ltd | 9 | 53 |
-| AS197170 TechTies Inc. | 8 | 346 |
+| AS197170 TechTies Inc. | 8 | 345 |
 | AS219502 Storm Industries LLC | 8 | 26 |
 | AS55286 B2 Net Solutions Inc. | 7 | 7 |
 | AS403005 Blatant | 6 | 16 |
 | AS32934 Facebook, Inc. | 6 | 7 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 6 | 6 |
-| AS34343 Eweka Internet Services B.V. | 5 | 272 |
-| AS14618 Amazon.com, Inc. | 5 | 222 |
-| AS16509 Amazon.com, Inc. | 5 | 204 |
+| AS34343 Eweka Internet Services B.V. | 5 | 275 |
+| AS14618 Amazon.com, Inc. | 5 | 218 |
+| AS16509 Amazon.com, Inc. | 5 | 203 |
 | AS18779 EGIHosting | 5 | 5 |
 | AS215599 Zkillu SAS | 3 | 46 |
 | AS31898 Oracle Corporation | 3 | 7 |
@@ -126,7 +126,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 637 
 | AS45899 VNPT Corp | 2 | 2 |
 | AS13999 Mega Cable, S.A. de C.V. | 2 | 2 |
 | AS21826 Corporacion Telemic C.A. | 2 | 2 |
-| AS211590 Bucklog SARL | 1 | 197 |
+| AS211590 Bucklog SARL | 1 | 191 |
 | AS216014 BestDC Limited | 1 | 109 |
 | AS208137 Feo Prest SRL | 1 | 57 |
 | AS199457 SolidCore Hosting LTD | 1 | 30 |
