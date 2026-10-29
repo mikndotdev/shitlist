@@ -1,35 +1,35 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 633 IPs, 28445 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 637 IPs, 28682 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 166 | 3585 |
-| Netherlands (NL) | 74 | 2291 |
-| Germany (DE) | 53 | 1225 |
-| France (FR) | 39 | 990 |
-| Belgium (BE) | 38 | 5177 |
-| Brazil (BR) | 37 | 448 |
+| United States (US) | 168 | 3701 |
+| Netherlands (NL) | 74 | 2356 |
+| Germany (DE) | 54 | 1235 |
+| France (FR) | 40 | 991 |
+| Belgium (BE) | 38 | 5197 |
+| Brazil (BR) | 37 | 446 |
 | Lithuania (LT) | 16 | 2586 |
-| United Kingdom (GB) | 12 | 129 |
-| Spain (ES) | 11 | 1740 |
-| Canada (CA) | 11 | 1421 |
-| Sweden (SE) | 10 | 253 |
-| Bulgaria (BG) | 9 | 1221 |
+| United Kingdom (GB) | 12 | 154 |
+| Spain (ES) | 11 | 1739 |
+| Canada (CA) | 11 | 1423 |
+| Sweden (SE) | 10 | 255 |
+| Bulgaria (BG) | 9 | 1218 |
 | Singapore (SG) | 9 | 636 |
-| Japan (JP) | 8 | 96 |
-| Hong Kong SAR China (HK) | 7 | 1582 |
-| South Korea (KR) | 7 | 1371 |
+| Japan (JP) | 8 | 95 |
+| Hong Kong SAR China (HK) | 7 | 1586 |
+| South Korea (KR) | 7 | 1366 |
 | Romania (RO) | 7 | 39 |
-| India (IN) | 6 | 982 |
-| Italy (IT) | 6 | 734 |
-| Chile (CL) | 6 | 494 |
+| India (IN) | 6 | 983 |
+| Italy (IT) | 6 | 733 |
+| Chile (CL) | 6 | 493 |
 | Russia (RU) | 6 | 7 |
-| Taiwan (TW) | 5 | 368 |
+| Taiwan (TW) | 5 | 371 |
 | Vietnam (VN) | 5 | 5 |
-| Australia (AU) | 4 | 250 |
+| Australia (AU) | 4 | 249 |
 | Thailand (TH) | 4 | 13 |
 | Austria (AT) | 4 | 5 |
 | Morocco (MA) | 4 | 4 |
@@ -39,7 +39,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 633 
 | Colombia (CO) | 4 | 4 |
 | Switzerland (CH) | 3 | 154 |
 | South Africa (ZA) | 3 | 106 |
-| Ireland (IE) | 3 | 89 |
+| Ireland (IE) | 3 | 92 |
 | Finland (FI) | 3 | 36 |
 | Poland (PL) | 3 | 4 |
 | Argentina (AR) | 3 | 3 |
@@ -73,29 +73,29 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 633 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 130 | 17739 |
-| AS60068 Datacamp Limited | 60 | 1943 |
+| AS396982 Google LLC | 132 | 17874 |
+| AS60068 Datacamp Limited | 60 | 1947 |
 | AS212238 Datacamp Limited | 34 | 549 |
-| AS14061 DigitalOcean, LLC | 26 | 253 |
+| AS14061 DigitalOcean, LLC | 26 | 258 |
 | AS215125 Church of Cyberology | 20 | 27 |
-| AS13335 Cloudflare, Inc. | 15 | 59 |
+| AS13335 Cloudflare, Inc. | 17 | 61 |
 | AS218785 Tc Datacenter Limited | 14 | 2584 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 13 | 30 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 13 | 33 |
 | AS20473 The Constant Company, LLC | 13 | 13 |
-| AS202412 Omegatech LTD | 12 | 611 |
+| AS202412 Omegatech LTD | 12 | 612 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
-| AS48090 Techoff Srv Limited | 10 | 1825 |
-| Unknown | 10 | 328 |
+| AS48090 Techoff Srv Limited | 10 | 1880 |
+| Unknown | 10 | 327 |
 | AS62874 Web2Objects LLC | 10 | 10 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
 | AS47890 Unmanaged Ltd | 9 | 53 |
-| AS197170 TechTies Inc. | 8 | 341 |
+| AS197170 TechTies Inc. | 8 | 346 |
 | AS219502 Storm Industries LLC | 8 | 26 |
 | AS55286 B2 Net Solutions Inc. | 7 | 7 |
 | AS403005 Blatant | 6 | 16 |
 | AS32934 Facebook, Inc. | 6 | 7 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 6 | 6 |
-| AS34343 Eweka Internet Services B.V. | 5 | 247 |
+| AS34343 Eweka Internet Services B.V. | 5 | 272 |
 | AS14618 Amazon.com, Inc. | 5 | 222 |
 | AS16509 Amazon.com, Inc. | 5 | 204 |
 | AS18779 EGIHosting | 5 | 5 |
@@ -132,8 +132,8 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 633 
 | AS199457 SolidCore Hosting LTD | 1 | 30 |
 | AS56630 Melbikomas UAB | 1 | 19 |
 | AS15704 Xtra Telecom S.A. | 1 | 14 |
+| AS11878 tzulo, inc. | 1 | 9 |
 | AS219200 Cryphora Limited | 1 | 8 |
-| AS11878 tzulo, inc. | 1 | 6 |
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | 6 |
 | AS174 Cogent Communications, LLC | 1 | 3 |
 | AS14956 RouterHosting LLC | 1 | 3 |
