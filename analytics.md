@@ -1,38 +1,38 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 885 IPs, 39892 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 999 IPs, 41743 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 226 | 5605 |
-| Singapore (SG) | 119 | 1280 |
-| Netherlands (NL) | 78 | 3150 |
-| Germany (DE) | 59 | 1547 |
-| Belgium (BE) | 44 | 6255 |
-| France (FR) | 44 | 1012 |
-| Brazil (BR) | 43 | 1266 |
-| United Kingdom (GB) | 19 | 474 |
-| Lithuania (LT) | 18 | 3013 |
+| United States (US) | 231 | 5854 |
+| Singapore (SG) | 218 | 1389 |
+| Netherlands (NL) | 78 | 3160 |
+| Germany (DE) | 59 | 1538 |
+| Belgium (BE) | 45 | 6405 |
+| France (FR) | 45 | 1255 |
+| Brazil (BR) | 44 | 1802 |
+| Lithuania (LT) | 19 | 3141 |
+| United Kingdom (GB) | 19 | 501 |
+| India (IN) | 12 | 2470 |
 | Bulgaria (BG) | 12 | 2443 |
-| India (IN) | 11 | 2321 |
-| Spain (ES) | 11 | 1740 |
-| Canada (CA) | 11 | 1663 |
-| Japan (JP) | 11 | 127 |
-| Poland (PL) | 11 | 14 |
-| Sweden (SE) | 10 | 256 |
-| Romania (RO) | 9 | 90 |
-| South Korea (KR) | 8 | 1511 |
-| Italy (IT) | 8 | 1224 |
+| Japan (JP) | 12 | 146 |
+| Poland (PL) | 12 | 17 |
+| Spain (ES) | 11 | 1741 |
+| Canada (CA) | 11 | 1664 |
+| Sweden (SE) | 10 | 254 |
+| South Korea (KR) | 9 | 1758 |
+| Romania (RO) | 9 | 92 |
+| Italy (IT) | 8 | 1221 |
 | Russia (RU) | 8 | 9 |
-| Hong Kong SAR China (HK) | 7 | 1809 |
-| Chile (CL) | 6 | 493 |
-| Mexico (MX) | 6 | 6 |
+| Hong Kong SAR China (HK) | 7 | 1810 |
+| Mexico (MX) | 7 | 7 |
+| Chile (CL) | 6 | 494 |
 | Vietnam (VN) | 6 | 6 |
-| Taiwan (TW) | 5 | 372 |
-| Thailand (TH) | 5 | 255 |
-| Ireland (IE) | 5 | 252 |
+| Taiwan (TW) | 5 | 363 |
+| Thailand (TH) | 5 | 254 |
+| Ireland (IE) | 5 | 250 |
 | Austria (AT) | 5 | 6 |
 | Venezuela (VE) | 5 | 5 |
 | Switzerland (CH) | 4 | 399 |
@@ -43,11 +43,12 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 885 
 | Morocco (MA) | 4 | 4 |
 | Pakistan (PK) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| Indonesia (ID) | 3 | 487 |
+| Indonesia (ID) | 3 | 486 |
 | Israel (IL) | 3 | 354 |
 | South Africa (ZA) | 3 | 106 |
 | Finland (FI) | 3 | 36 |
 | Türkiye (TR) | 2 | 3 |
+| Malaysia (MY) | 2 | 2 |
 | China (CN) | 2 | 2 |
 | Norway (NO) | 2 | 2 |
 | Seychelles (SC) | 2 | 2 |
@@ -55,7 +56,6 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 885 
 | Azerbaijan (AZ) | 2 | 2 |
 | United Arab Emirates (AE) | 2 | 2 |
 | New Zealand (NZ) | 1 | 2 |
-| Malaysia (MY) | 1 | 1 |
 | Malta (MT) | 1 | 1 |
 | Bosnia & Herzegovina (BA) | 1 | 1 |
 | Albania (AL) | 1 | 1 |
@@ -76,36 +76,36 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 885 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS396982 Google LLC | 168 | 24972 |
-| AS45102 Alibaba (US) Technology Co., Ltd. | 108 | 110 |
-| AS60068 Datacamp Limited | 69 | 3235 |
-| AS212238 Datacamp Limited | 40 | 723 |
+| AS45102 Alibaba (US) Technology Co., Ltd. | 207 | 219 |
+| AS396982 Google LLC | 174 | 26318 |
+| AS60068 Datacamp Limited | 69 | 3317 |
+| AS212238 Datacamp Limited | 41 | 724 |
 | AS14061 DigitalOcean, LLC | 35 | 461 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 26 | 57 |
-| AS13335 Cloudflare, Inc. | 24 | 69 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 27 | 58 |
+| AS13335 Cloudflare, Inc. | 25 | 71 |
 | AS215125 Church of Cyberology | 20 | 27 |
-| AS20473 The Constant Company, LLC | 18 | 18 |
-| AS218785 Tc Datacenter Limited | 17 | 3158 |
-| AS62874 Web2Objects LLC | 16 | 16 |
-| AS48090 Techoff Srv Limited | 12 | 2953 |
+| AS20473 The Constant Company, LLC | 19 | 19 |
+| AS218785 Tc Datacenter Limited | 18 | 3285 |
+| AS62874 Web2Objects LLC | 17 | 17 |
+| AS48090 Techoff Srv Limited | 12 | 2962 |
 | AS202412 Omegatech LTD | 12 | 611 |
 | AS18779 EGIHosting | 12 | 12 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
 | AS55286 B2 Net Solutions Inc. | 11 | 11 |
-| AS47890 Unmanaged Ltd | 10 | 103 |
+| AS47890 Unmanaged Ltd | 10 | 105 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
-| AS197170 TechTies Inc. | 9 | 332 |
+| AS197170 TechTies Inc. | 9 | 334 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 9 | 9 |
+| AS16509 Amazon.com, Inc. | 8 | 642 |
 | AS219502 Storm Industries LLC | 8 | 22 |
-| AS16509 Amazon.com, Inc. | 7 | 500 |
 | AS403005 Blatant | 7 | 92 |
 | AS14618 Amazon.com, Inc. | 6 | 237 |
 | AS32934 Facebook, Inc. | 6 | 7 |
-| AS34343 Eweka Internet Services B.V. | 5 | 435 |
+| AS34343 Eweka Internet Services B.V. | 5 | 462 |
 | AS215599 Zkillu SAS | 5 | 64 |
 | AS31898 Oracle Corporation | 4 | 15 |
 | Unknown | 3 | 247 |
-| AS8075 Microsoft Corporation | 3 | 18 |
+| AS8075 Microsoft Corporation | 3 | 19 |
 | AS208323 Foundation for Applied Privacy | 3 | 4 |
 | AS396356 Latitude.sh | 3 | 3 |
 | AS21826 Corporacion Telemic C.A. | 3 | 3 |
@@ -117,8 +117,8 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 885 
 | AS11878 tzulo, inc. | 2 | 18 |
 | AS174 Cogent Communications, LLC | 2 | 16 |
 | AS14956 RouterHosting LLC | 2 | 8 |
+| AS16276 OVH SAS | 2 | 5 |
 | AS51167 Contabo GmbH | 2 | 5 |
-| AS16276 OVH SAS | 2 | 4 |
 | AS205100 F3 Netze e.V. | 2 | 3 |
 | AS24940 Hetzner Online GmbH | 2 | 3 |
 | AS270589 Marcio Henrique Malaquias Junior | 2 | 2 |
@@ -139,9 +139,9 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 885 
 | AS13999 Mega Cable, S.A. de C.V. | 2 | 2 |
 | AS211590 Bucklog SARL | 1 | 197 |
 | AS216014 BestDC Limited | 1 | 109 |
-| AS199457 SolidCore Hosting LTD | 1 | 60 |
 | AS208137 Feo Prest SRL | 1 | 57 |
-| AS56630 Melbikomas UAB | 1 | 31 |
+| AS199457 SolidCore Hosting LTD | 1 | 54 |
+| AS56630 Melbikomas UAB | 1 | 32 |
 | AS15704 Xtra Telecom S.A. | 1 | 14 |
 | AS219200 Cryphora Limited | 1 | 8 |
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | 6 |
@@ -151,6 +151,8 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 885 
 | AS211066 Simon Mariacher | 1 | 2 |
 | AS206804 Realcloud OU | 1 | 2 |
 | AS32987 Clnetworks Inc | 1 | 2 |
+| AS272377 Jose Guadalupe Candelas Ortiz | 1 | 1 |
+| AS38466 U Mobile Sdn Bhd | 1 | 1 |
 | AS7195 EDGEUNO S.A.S | 1 | 1 |
 | AS8437 Hutchison Drei Austria GmbH | 1 | 1 |
 | AS4788 TM TECHNOLOGY SERVICES SDN. BHD. | 1 | 1 |
