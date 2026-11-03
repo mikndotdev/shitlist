@@ -1,49 +1,49 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 999 IPs, 41743 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 1409 IPs, 42840 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 231 | 5854 |
-| Singapore (SG) | 218 | 1389 |
+| Singapore (SG) | 622 | 1848 |
+| United States (US) | 233 | 5861 |
 | Netherlands (NL) | 78 | 3160 |
 | Germany (DE) | 59 | 1538 |
-| Belgium (BE) | 45 | 6405 |
-| France (FR) | 45 | 1255 |
-| Brazil (BR) | 44 | 1802 |
-| Lithuania (LT) | 19 | 3141 |
-| United Kingdom (GB) | 19 | 501 |
-| India (IN) | 12 | 2470 |
-| Bulgaria (BG) | 12 | 2443 |
-| Japan (JP) | 12 | 146 |
+| Belgium (BE) | 46 | 6626 |
+| Brazil (BR) | 45 | 1807 |
+| France (FR) | 45 | 1252 |
+| Lithuania (LT) | 20 | 3266 |
+| United Kingdom (GB) | 20 | 797 |
+| India (IN) | 12 | 2469 |
+| Bulgaria (BG) | 12 | 2437 |
+| Japan (JP) | 12 | 138 |
 | Poland (PL) | 12 | 17 |
-| Spain (ES) | 11 | 1741 |
-| Canada (CA) | 11 | 1664 |
-| Sweden (SE) | 10 | 254 |
-| South Korea (KR) | 9 | 1758 |
-| Romania (RO) | 9 | 92 |
-| Italy (IT) | 8 | 1221 |
+| Spain (ES) | 11 | 1739 |
+| Canada (CA) | 11 | 1663 |
+| Sweden (SE) | 10 | 255 |
+| South Korea (KR) | 9 | 1751 |
+| Romania (RO) | 9 | 96 |
+| Italy (IT) | 8 | 1224 |
 | Russia (RU) | 8 | 9 |
-| Hong Kong SAR China (HK) | 7 | 1810 |
+| Hong Kong SAR China (HK) | 7 | 1806 |
 | Mexico (MX) | 7 | 7 |
-| Chile (CL) | 6 | 494 |
+| Chile (CL) | 6 | 493 |
 | Vietnam (VN) | 6 | 6 |
-| Taiwan (TW) | 5 | 363 |
-| Thailand (TH) | 5 | 254 |
-| Ireland (IE) | 5 | 250 |
+| Taiwan (TW) | 5 | 368 |
+| Thailand (TH) | 5 | 256 |
+| Ireland (IE) | 5 | 252 |
 | Austria (AT) | 5 | 6 |
 | Venezuela (VE) | 5 | 5 |
 | Switzerland (CH) | 4 | 399 |
-| Australia (AU) | 4 | 249 |
+| Australia (AU) | 4 | 248 |
 | Peru (PE) | 4 | 4 |
 | Ukraine (UA) | 4 | 4 |
 | Argentina (AR) | 4 | 4 |
 | Morocco (MA) | 4 | 4 |
 | Pakistan (PK) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| Indonesia (ID) | 3 | 486 |
+| Indonesia (ID) | 3 | 487 |
 | Israel (IL) | 3 | 354 |
 | South Africa (ZA) | 3 | 106 |
 | Finland (FI) | 3 | 36 |
@@ -76,34 +76,34 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 999 
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS45102 Alibaba (US) Technology Co., Ltd. | 207 | 219 |
-| AS396982 Google LLC | 174 | 26318 |
-| AS60068 Datacamp Limited | 69 | 3317 |
+| AS45102 Alibaba (US) Technology Co., Ltd. | 610 | 667 |
+| AS396982 Google LLC | 176 | 26537 |
+| AS60068 Datacamp Limited | 69 | 3325 |
 | AS212238 Datacamp Limited | 41 | 724 |
-| AS14061 DigitalOcean, LLC | 35 | 461 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 27 | 58 |
-| AS13335 Cloudflare, Inc. | 25 | 71 |
+| AS14061 DigitalOcean, LLC | 35 | 456 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 28 | 59 |
+| AS13335 Cloudflare, Inc. | 25 | 68 |
 | AS215125 Church of Cyberology | 20 | 27 |
+| AS218785 Tc Datacenter Limited | 19 | 3409 |
 | AS20473 The Constant Company, LLC | 19 | 19 |
-| AS218785 Tc Datacenter Limited | 18 | 3285 |
-| AS62874 Web2Objects LLC | 17 | 17 |
-| AS48090 Techoff Srv Limited | 12 | 2962 |
+| AS62874 Web2Objects LLC | 18 | 18 |
+| AS48090 Techoff Srv Limited | 12 | 2953 |
 | AS202412 Omegatech LTD | 12 | 611 |
 | AS18779 EGIHosting | 12 | 12 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
 | AS55286 B2 Net Solutions Inc. | 11 | 11 |
-| AS47890 Unmanaged Ltd | 10 | 105 |
+| AS47890 Unmanaged Ltd | 10 | 111 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
-| AS197170 TechTies Inc. | 9 | 334 |
+| AS16509 Amazon.com, Inc. | 9 | 917 |
+| AS197170 TechTies Inc. | 9 | 337 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 9 | 9 |
-| AS16509 Amazon.com, Inc. | 8 | 642 |
-| AS219502 Storm Industries LLC | 8 | 22 |
+| AS219502 Storm Industries LLC | 8 | 20 |
 | AS403005 Blatant | 7 | 92 |
-| AS14618 Amazon.com, Inc. | 6 | 237 |
+| AS14618 Amazon.com, Inc. | 6 | 238 |
 | AS32934 Facebook, Inc. | 6 | 7 |
-| AS34343 Eweka Internet Services B.V. | 5 | 462 |
+| AS34343 Eweka Internet Services B.V. | 5 | 488 |
 | AS215599 Zkillu SAS | 5 | 64 |
-| AS31898 Oracle Corporation | 4 | 15 |
+| AS31898 Oracle Corporation | 4 | 16 |
 | Unknown | 3 | 247 |
 | AS8075 Microsoft Corporation | 3 | 19 |
 | AS208323 Foundation for Applied Privacy | 3 | 4 |
@@ -117,10 +117,11 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 999 
 | AS11878 tzulo, inc. | 2 | 18 |
 | AS174 Cogent Communications, LLC | 2 | 16 |
 | AS14956 RouterHosting LLC | 2 | 8 |
-| AS16276 OVH SAS | 2 | 5 |
+| AS16276 OVH SAS | 2 | 6 |
 | AS51167 Contabo GmbH | 2 | 5 |
 | AS205100 F3 Netze e.V. | 2 | 3 |
 | AS24940 Hetzner Online GmbH | 2 | 3 |
+| AS7195 EDGEUNO S.A.S | 2 | 2 |
 | AS270589 Marcio Henrique Malaquias Junior | 2 | 2 |
 | AS6079 RCN | 2 | 2 |
 | AS46261 QuickPacket, LLC | 2 | 2 |
@@ -137,11 +138,11 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 999 
 | AS36947 Telecom Algeria | 2 | 2 |
 | AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM | 2 | 2 |
 | AS13999 Mega Cable, S.A. de C.V. | 2 | 2 |
-| AS211590 Bucklog SARL | 1 | 197 |
-| AS216014 BestDC Limited | 1 | 109 |
+| AS211590 Bucklog SARL | 1 | 192 |
+| AS216014 BestDC Limited | 1 | 108 |
+| AS199457 SolidCore Hosting LTD | 1 | 60 |
 | AS208137 Feo Prest SRL | 1 | 57 |
-| AS199457 SolidCore Hosting LTD | 1 | 54 |
-| AS56630 Melbikomas UAB | 1 | 32 |
+| AS56630 Melbikomas UAB | 1 | 33 |
 | AS15704 Xtra Telecom S.A. | 1 | 14 |
 | AS219200 Cryphora Limited | 1 | 8 |
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | 6 |
@@ -153,7 +154,6 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 999 
 | AS32987 Clnetworks Inc | 1 | 2 |
 | AS272377 Jose Guadalupe Candelas Ortiz | 1 | 1 |
 | AS38466 U Mobile Sdn Bhd | 1 | 1 |
-| AS7195 EDGEUNO S.A.S | 1 | 1 |
 | AS8437 Hutchison Drei Austria GmbH | 1 | 1 |
 | AS4788 TM TECHNOLOGY SERVICES SDN. BHD. | 1 | 1 |
 | AS17072 TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V. | 1 | 1 |
