@@ -1,42 +1,42 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 2974 IPs, 57892 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 2984 IPs, 58310 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| Singapore (SG) | 2059 | 4486 |
-| United States (US) | 288 | 6827 |
-| Netherlands (NL) | 81 | 3572 |
-| Germany (DE) | 68 | 2140 |
-| Brazil (BR) | 52 | 3045 |
-| Belgium (BE) | 51 | 8264 |
-| France (FR) | 49 | 1265 |
-| Lithuania (LT) | 24 | 3700 |
-| United Kingdom (GB) | 22 | 824 |
-| Poland (PL) | 21 | 29 |
-| Bulgaria (BG) | 14 | 7424 |
-| Japan (JP) | 13 | 181 |
-| India (IN) | 12 | 2470 |
+| Singapore (SG) | 2061 | 4485 |
+| United States (US) | 292 | 6836 |
+| Netherlands (NL) | 81 | 3569 |
+| Germany (DE) | 68 | 2139 |
+| Brazil (BR) | 54 | 3064 |
+| Belgium (BE) | 51 | 8246 |
+| France (FR) | 49 | 1264 |
+| Lithuania (LT) | 24 | 3722 |
+| United Kingdom (GB) | 22 | 825 |
+| Poland (PL) | 21 | 30 |
+| Bulgaria (BG) | 14 | 7566 |
+| Japan (JP) | 13 | 177 |
+| India (IN) | 12 | 2468 |
 | Canada (CA) | 12 | 2058 |
-| South Korea (KR) | 11 | 2259 |
-| Hong Kong SAR China (HK) | 11 | 2231 |
-| Spain (ES) | 11 | 1742 |
+| South Korea (KR) | 11 | 2272 |
+| Hong Kong SAR China (HK) | 11 | 2230 |
+| Spain (ES) | 11 | 1740 |
 | Italy (IT) | 11 | 1228 |
-| Sweden (SE) | 11 | 501 |
-| Romania (RO) | 10 | 109 |
+| Sweden (SE) | 11 | 500 |
+| Romania (RO) | 10 | 112 |
 | Russia (RU) | 9 | 10 |
 | Chile (CL) | 8 | 495 |
 | Vietnam (VN) | 8 | 8 |
 | Mexico (MX) | 8 | 8 |
-| Taiwan (TW) | 6 | 373 |
+| Australia (AU) | 6 | 496 |
+| Taiwan (TW) | 6 | 371 |
 | Austria (AT) | 6 | 7 |
 | Venezuela (VE) | 6 | 6 |
-| Indonesia (ID) | 5 | 729 |
+| Indonesia (ID) | 5 | 730 |
 | Ireland (IE) | 5 | 287 |
 | Thailand (TH) | 5 | 258 |
-| Australia (AU) | 5 | 252 |
 | Peru (PE) | 5 | 5 |
 | Switzerland (CH) | 4 | 399 |
 | Ukraine (UA) | 4 | 4 |
@@ -44,8 +44,8 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 2974
 | Morocco (MA) | 4 | 4 |
 | Pakistan (PK) | 4 | 4 |
 | Colombia (CO) | 4 | 4 |
-| Israel (IL) | 3 | 354 |
-| China (CN) | 3 | 150 |
+| Israel (IL) | 3 | 353 |
+| China (CN) | 3 | 149 |
 | South Africa (ZA) | 3 | 106 |
 | Finland (FI) | 3 | 36 |
 | Türkiye (TR) | 2 | 3 |
@@ -57,6 +57,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 2974
 | United Arab Emirates (AE) | 2 | 2 |
 | Czechia (CZ) | 1 | 2 |
 | New Zealand (NZ) | 1 | 2 |
+| Aruba (AW) | 1 | 1 |
 | Malta (MT) | 1 | 1 |
 | Bosnia & Herzegovina (BA) | 1 | 1 |
 | Albania (AL) | 1 | 1 |
@@ -77,52 +78,52 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 2974
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS45102 Alibaba (US) Technology Co., Ltd. | 2036 | 3055 |
-| AS396982 Google LLC | 198 | 31965 |
-| AS60068 Datacamp Limited | 85 | 3905 |
-| AS212238 Datacamp Limited | 47 | 754 |
+| AS45102 Alibaba (US) Technology Co., Ltd. | 2038 | 3058 |
+| AS396982 Google LLC | 200 | 32204 |
+| AS60068 Datacamp Limited | 85 | 3908 |
+| AS212238 Datacamp Limited | 48 | 754 |
 | AS14061 DigitalOcean, LLC | 41 | 488 |
 | AS13335 Cloudflare, Inc. | 39 | 103 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 32 | 98 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 32 | 99 |
 | AS20473 The Constant Company, LLC | 30 | 30 |
-| AS218785 Tc Datacenter Limited | 23 | 3828 |
+| AS218785 Tc Datacenter Limited | 23 | 3852 |
 | AS215125 Church of Cyberology | 20 | 27 |
 | AS62874 Web2Objects LLC | 20 | 20 |
 | AS55286 B2 Net Solutions Inc. | 17 | 17 |
-| AS18779 EGIHosting | 15 | 15 |
-| AS48090 Techoff Srv Limited | 13 | 8063 |
-| AS207990 HostRoyale Technologies Pvt Ltd | 13 | 13 |
+| AS18779 EGIHosting | 16 | 16 |
+| AS207990 HostRoyale Technologies Pvt Ltd | 14 | 14 |
+| AS48090 Techoff Srv Limited | 13 | 8201 |
 | AS202412 Omegatech LTD | 12 | 611 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
-| AS47890 Unmanaged Ltd | 11 | 124 |
+| AS47890 Unmanaged Ltd | 11 | 127 |
 | AS16509 Amazon.com, Inc. | 10 | 920 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
-| AS197170 TechTies Inc. | 9 | 343 |
-| AS14618 Amazon.com, Inc. | 9 | 321 |
+| AS197170 TechTies Inc. | 9 | 340 |
+| AS14618 Amazon.com, Inc. | 9 | 323 |
 | AS219502 Storm Industries LLC | 8 | 19 |
 | AS403005 Blatant | 7 | 98 |
 | AS215599 Zkillu SAS | 6 | 66 |
 | AS32934 Facebook, Inc. | 6 | 7 |
-| AS34343 Eweka Internet Services B.V. | 5 | 662 |
+| AS34343 Eweka Internet Services B.V. | 5 | 663 |
 | AS45899 VNPT Corp | 5 | 5 |
 | AS31898 Oracle Corporation | 4 | 18 |
 | AS14956 RouterHosting LLC | 4 | 10 |
-| AS132203 Tencent Building, Kejizhongyi Avenue | 3 | 568 |
+| AS396356 Latitude.sh | 4 | 4 |
+| AS132203 Tencent Building, Kejizhongyi Avenue | 3 | 564 |
 | Unknown | 3 | 247 |
 | AS8075 Microsoft Corporation | 3 | 23 |
-| AS16276 OVH SAS | 3 | 7 |
+| AS16276 OVH SAS | 3 | 8 |
 | AS24940 Hetzner Online GmbH | 3 | 7 |
 | AS51167 Contabo GmbH | 3 | 6 |
 | AS208323 Foundation for Applied Privacy | 3 | 4 |
 | AS265691 WI-NET TELECOM S.A.C. | 3 | 3 |
-| AS396356 Latitude.sh | 3 | 3 |
 | AS21826 Corporacion Telemic C.A. | 3 | 3 |
 | AS198093 Foreningen for digitala fri- och rattigheter | 3 | 3 |
 | AS17557 Pakistan Telecommunication Company Limited | 3 | 3 |
 | AS15169 Google LLC | 2 | 490 |
 | AS53667 FranTech Solutions | 2 | 153 |
-| AS199457 SolidCore Hosting LTD | 2 | 88 |
-| AS11878 tzulo, inc. | 2 | 30 |
+| AS199457 SolidCore Hosting LTD | 2 | 90 |
+| AS11878 tzulo, inc. | 2 | 33 |
 | AS174 Cogent Communications, LLC | 2 | 16 |
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2 | 9 |
 | AS205100 F3 Netze e.V. | 2 | 3 |
@@ -157,6 +158,8 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 2974
 | AS211066 Simon Mariacher | 1 | 2 |
 | AS206804 Realcloud OU | 1 | 2 |
 | AS32987 Clnetworks Inc | 1 | 2 |
+| AS263924 Sonik Servicos de Comunicacao LTDA | 1 | 1 |
+| AS11816 SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V. | 1 | 1 |
 | AS27651 ENTEL CHILE S.A. | 1 | 1 |
 | AS263252 GIGASAT SERVICOS DE PROCESSAMENTOS DE DADOS LTDA | 1 | 1 |
 | AS3269 TIM | 1 | 1 |
