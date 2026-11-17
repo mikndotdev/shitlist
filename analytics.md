@@ -1,92 +1,93 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 6090 IPs, 102172 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 6204 IPs, 102785 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| Singapore (SG) | 3789 | 18141 |
-| United States (US) | 743 | 9739 |
-| Brazil (BR) | 205 | 3210 |
-| Poland (PL) | 115 | 182 |
-| Belgium (BE) | 98 | 21298 |
-| Germany (DE) | 85 | 3535 |
-| Netherlands (NL) | 72 | 4110 |
-| France (FR) | 71 | 1335 |
-| United Kingdom (GB) | 65 | 978 |
-| Argentina (AR) | 46 | 46 |
-| Mexico (MX) | 43 | 43 |
-| Lithuania (LT) | 35 | 4241 |
+| Singapore (SG) | 3794 | 18287 |
+| United States (US) | 780 | 9782 |
+| Brazil (BR) | 220 | 3226 |
+| Poland (PL) | 121 | 191 |
+| Belgium (BE) | 100 | 21876 |
+| Germany (DE) | 86 | 3566 |
+| Netherlands (NL) | 73 | 4285 |
+| France (FR) | 73 | 1337 |
+| United Kingdom (GB) | 70 | 1008 |
+| Argentina (AR) | 50 | 50 |
+| Mexico (MX) | 46 | 46 |
+| Lithuania (LT) | 35 | 3791 |
+| Vietnam (VN) | 32 | 32 |
 | Ukraine (UA) | 30 | 30 |
-| Chile (CL) | 28 | 1489 |
-| Russia (RU) | 28 | 29 |
-| Vietnam (VN) | 28 | 28 |
-| Italy (IT) | 27 | 1976 |
-| Canada (CA) | 26 | 2909 |
-| Colombia (CO) | 22 | 22 |
-| Bangladesh (BD) | 21 | 21 |
-| Venezuela (VE) | 21 | 21 |
-| Bulgaria (BG) | 20 | 10528 |
+| Chile (CL) | 29 | 1488 |
+| Russia (RU) | 29 | 30 |
+| Italy (IT) | 27 | 1732 |
+| Canada (CA) | 25 | 2664 |
+| Pakistan (PK) | 24 | 24 |
+| Colombia (CO) | 23 | 23 |
+| Morocco (MA) | 23 | 23 |
+| Bangladesh (BD) | 22 | 22 |
+| Venezuela (VE) | 22 | 22 |
+| Bulgaria (BG) | 20 | 11013 |
 | Romania (RO) | 20 | 144 |
-| Pakistan (PK) | 20 | 20 |
-| Morocco (MA) | 20 | 20 |
+| India (IN) | 18 | 2737 |
 | Peru (PE) | 18 | 18 |
-| Japan (JP) | 17 | 3050 |
-| Hong Kong SAR China (HK) | 14 | 2718 |
-| India (IN) | 14 | 2715 |
-| Sweden (SE) | 13 | 650 |
+| Japan (JP) | 16 | 3035 |
+| Tunisia (TN) | 15 | 15 |
+| Hong Kong SAR China (HK) | 14 | 2715 |
+| United Arab Emirates (AE) | 14 | 14 |
 | South Africa (ZA) | 13 | 116 |
 | Türkiye (TR) | 13 | 13 |
-| Tunisia (TN) | 13 | 13 |
-| United Arab Emirates (AE) | 12 | 12 |
-| South Korea (KR) | 11 | 2026 |
+| Sweden (SE) | 12 | 648 |
+| South Korea (KR) | 11 | 2044 |
 | Spain (ES) | 10 | 1254 |
 | Thailand (TH) | 10 | 410 |
 | Israel (IL) | 9 | 985 |
 | Indonesia (ID) | 9 | 810 |
-| Switzerland (CH) | 8 | 1322 |
+| Philippines (PH) | 9 | 9 |
+| Switzerland (CH) | 8 | 1323 |
 | Ireland (IE) | 8 | 353 |
-| Taiwan (TW) | 8 | 131 |
+| Paraguay (PY) | 8 | 8 |
 | Dominican Republic (DO) | 8 | 8 |
-| Philippines (PH) | 8 | 8 |
+| Taiwan (TW) | 7 | 108 |
 | Austria (AT) | 7 | 8 |
+| Iraq (IQ) | 7 | 7 |
 | Algeria (DZ) | 7 | 7 |
 | Ecuador (EC) | 7 | 7 |
-| Paraguay (PY) | 7 | 7 |
+| Australia (AU) | 6 | 495 |
+| Honduras (HN) | 6 | 6 |
 | Nepal (NP) | 6 | 6 |
-| Iraq (IQ) | 6 | 6 |
-| Australia (AU) | 5 | 494 |
+| Serbia (RS) | 5 | 5 |
+| Jordan (JO) | 5 | 5 |
+| Nigeria (NG) | 5 | 5 |
 | Jamaica (JM) | 5 | 5 |
 | Uzbekistan (UZ) | 5 | 5 |
 | Bahrain (BH) | 5 | 5 |
 | Uruguay (UY) | 5 | 5 |
 | Azerbaijan (AZ) | 5 | 5 |
 | Finland (FI) | 4 | 37 |
-| Jordan (JO) | 4 | 4 |
+| Panama (PA) | 4 | 4 |
+| Portugal (PT) | 4 | 4 |
 | Bosnia & Herzegovina (BA) | 4 | 4 |
-| Nigeria (NG) | 4 | 4 |
-| Honduras (HN) | 4 | 4 |
 | Malaysia (MY) | 4 | 4 |
 | Albania (AL) | 4 | 4 |
-| Serbia (RS) | 4 | 4 |
 | China (CN) | 3 | 150 |
+| Ethiopia (ET) | 3 | 3 |
 | Nicaragua (NI) | 3 | 3 |
-| Panama (PA) | 3 | 3 |
 | Saudi Arabia (SA) | 3 | 3 |
 | Belarus (BY) | 3 | 3 |
 | Trinidad & Tobago (TT) | 3 | 3 |
-| Portugal (PT) | 3 | 3 |
 | Kazakhstan (KZ) | 3 | 3 |
 | Hungary (HU) | 3 | 3 |
 | Kenya (KE) | 3 | 3 |
 | Slovenia (SI) | 2 | 357 |
+| Syria (SY) | 2 | 2 |
 | Oman (OM) | 2 | 2 |
 | Barbados (BB) | 2 | 2 |
 | Kuwait (KW) | 2 | 2 |
 | Costa Rica (CR) | 2 | 2 |
 | Congo - Brazzaville (CG) | 2 | 2 |
-| Ethiopia (ET) | 2 | 2 |
 | Kyrgyzstan (KG) | 2 | 2 |
 | Lebanon (LB) | 2 | 2 |
 | Georgia (GE) | 2 | 2 |
@@ -96,7 +97,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 6090
 | North Macedonia (MK) | 2 | 2 |
 | Croatia (HR) | 2 | 2 |
 | Seychelles (SC) | 2 | 2 |
-| Qatar (QA) | 1 | 243 |
+| Qatar (QA) | 1 | 244 |
 | Czechia (CZ) | 1 | 2 |
 | New Zealand (NZ) | 1 | 2 |
 | Grenada (GD) | 1 | 1 |
@@ -111,7 +112,6 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 6090
 | Somalia (SO) | 1 | 1 |
 | Suriname (SR) | 1 | 1 |
 | Egypt (EG) | 1 | 1 |
-| Syria (SY) | 1 | 1 |
 | Estonia (EE) | 1 | 1 |
 | Martinique (MQ) | 1 | 1 |
 | Puerto Rico (PR) | 1 | 1 |
@@ -133,22 +133,22 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 6090
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS45102 Alibaba (US) Technology Co., Ltd. | 3767 | 17087 |
-| Unknown | 1207 | 10127 |
-| AS396982 Google LLC | 222 | 46459 |
-| AS13335 Cloudflare, Inc. | 95 | 257 |
+| AS45102 Alibaba (US) Technology Co., Ltd. | 3772 | 17232 |
+| Unknown | 1321 | 11014 |
+| AS396982 Google LLC | 218 | 46197 |
+| AS13335 Cloudflare, Inc. | 94 | 256 |
 | AS212238 Datacamp Limited | 71 | 1062 |
-| AS60068 Datacamp Limited | 68 | 3486 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 53 | 183 |
+| AS60068 Datacamp Limited | 68 | 3239 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 53 | 184 |
 | AS20473 The Constant Company, LLC | 37 | 37 |
 | AS14061 DigitalOcean, LLC | 36 | 388 |
 | AS62874 Web2Objects LLC | 27 | 27 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 24 | 24 |
-| AS218785 Tc Datacenter Limited | 23 | 4368 |
+| AS218785 Tc Datacenter Limited | 23 | 3917 |
 | AS55286 B2 Net Solutions Inc. | 21 | 21 |
 | AS215125 Church of Cyberology | 20 | 27 |
 | AS18779 EGIHosting | 20 | 20 |
-| AS48090 Techoff Srv Limited | 15 | 11675 |
+| AS48090 Techoff Srv Limited | 15 | 12158 |
 | AS16509 Amazon.com, Inc. | 12 | 1217 |
 | AS202412 Omegatech LTD | 12 | 551 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
@@ -157,7 +157,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 6090
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
 | AS197170 TechTies Inc. | 9 | 359 |
 | AS403005 Blatant | 6 | 108 |
-| AS34343 Eweka Internet Services B.V. | 5 | 1188 |
+| AS34343 Eweka Internet Services B.V. | 5 | 1213 |
 | AS132203 Tencent Building, Kejizhongyi Avenue | 5 | 1136 |
 | AS215599 Zkillu SAS | 5 | 36 |
 | AS31898 Oracle Corporation | 5 | 34 |
@@ -168,7 +168,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 6090
 | AS396356 Latitude.sh | 4 | 4 |
 | AS199457 SolidCore Hosting LTD | 3 | 132 |
 | AS11878 tzulo, inc. | 3 | 48 |
-| AS16276 OVH SAS | 3 | 18 |
+| AS16276 OVH SAS | 3 | 20 |
 | AS24940 Hetzner Online GmbH | 3 | 6 |
 | AS208323 Foundation for Applied Privacy | 3 | 4 |
 | AS17072 TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V. | 3 | 3 |
@@ -206,11 +206,11 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 6090
 | AS61125 Sabotage LLC | 2 | 2 |
 | AS36947 Telecom Algeria | 2 | 2 |
 | AS197769 VPS Dedicated LLC | 1 | 356 |
-| AS208137 Feo Prest SRL | 1 | 267 |
+| AS208137 Feo Prest SRL | 1 | 297 |
 | AS211590 Bucklog SARL | 1 | 197 |
 | AS218751 Fontaine, LLC | 1 | 43 |
 | AS56630 Melbikomas UAB | 1 | 30 |
-| AS399979 49.3 Networking LLC | 1 | 25 |
+| AS399979 49.3 Networking LLC | 1 | 26 |
 | AS15704 Xtra Telecom S.A. | 1 | 14 |
 | AS213790 Limited Network LTD | 1 | 10 |
 | AS219200 Cryphora Limited | 1 | 8 |
