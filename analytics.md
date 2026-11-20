@@ -1,52 +1,52 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 7633 IPs, 123900 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 7662 IPs, 127828 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| Singapore (SG) | 3814 | 19328 |
-| United States (US) | 1492 | 12484 |
-| Brazil (BR) | 373 | 3020 |
-| Poland (PL) | 180 | 270 |
-| Belgium (BE) | 142 | 35495 |
-| United Kingdom (GB) | 125 | 1017 |
-| Germany (DE) | 111 | 3714 |
-| France (FR) | 108 | 1971 |
+| Singapore (SG) | 3815 | 19417 |
+| United States (US) | 1510 | 12528 |
+| Brazil (BR) | 377 | 3024 |
+| Poland (PL) | 179 | 269 |
+| Belgium (BE) | 147 | 39037 |
+| United Kingdom (GB) | 124 | 1039 |
+| Germany (DE) | 111 | 3773 |
+| France (FR) | 107 | 1909 |
 | Argentina (AR) | 75 | 75 |
-| Netherlands (NL) | 72 | 5425 |
+| Netherlands (NL) | 72 | 5411 |
 | Mexico (MX) | 68 | 68 |
-| Vietnam (VN) | 63 | 63 |
+| Vietnam (VN) | 64 | 64 |
 | Ukraine (UA) | 54 | 54 |
 | Italy (IT) | 44 | 1505 |
 | Colombia (CO) | 41 | 41 |
-| Chile (CL) | 39 | 1499 |
-| Lithuania (LT) | 37 | 3913 |
+| Chile (CL) | 40 | 1502 |
+| Lithuania (LT) | 37 | 3916 |
 | Russia (RU) | 37 | 38 |
 | Venezuela (VE) | 36 | 36 |
 | Bangladesh (BD) | 35 | 35 |
-| Peru (PE) | 33 | 33 |
-| Canada (CA) | 28 | 2673 |
+| Peru (PE) | 34 | 34 |
+| Canada (CA) | 28 | 2678 |
 | Pakistan (PK) | 28 | 28 |
-| Bulgaria (BG) | 27 | 12035 |
-| Romania (RO) | 25 | 149 |
+| Bulgaria (BG) | 27 | 12037 |
+| Romania (RO) | 25 | 155 |
 | Morocco (MA) | 23 | 23 |
-| Hong Kong SAR China (HK) | 17 | 2753 |
-| India (IN) | 17 | 2492 |
+| Hong Kong SAR China (HK) | 18 | 2983 |
 | Tunisia (TN) | 17 | 17 |
+| India (IN) | 16 | 2491 |
 | Indonesia (ID) | 16 | 1058 |
 | South Africa (ZA) | 16 | 119 |
 | Ecuador (EC) | 16 | 16 |
 | United Arab Emirates (AE) | 16 | 16 |
-| Japan (JP) | 15 | 3270 |
+| Japan (JP) | 15 | 3267 |
 | Sweden (SE) | 15 | 797 |
 | Türkiye (TR) | 14 | 14 |
-| South Korea (KR) | 13 | 2288 |
+| South Korea (KR) | 13 | 2287 |
 | Taiwan (TW) | 13 | 384 |
 | Philippines (PH) | 13 | 13 |
-| Thailand (TH) | 12 | 411 |
-| Israel (IL) | 11 | 1230 |
+| Thailand (TH) | 12 | 412 |
+| Israel (IL) | 11 | 1228 |
 | Paraguay (PY) | 10 | 10 |
 | Dominican Republic (DO) | 10 | 10 |
 | Honduras (HN) | 9 | 9 |
@@ -55,7 +55,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 | Serbia (RS) | 9 | 9 |
 | Iraq (IQ) | 9 | 9 |
 | Switzerland (CH) | 8 | 1279 |
-| Spain (ES) | 8 | 997 |
+| Spain (ES) | 8 | 995 |
 | Hungary (HU) | 8 | 8 |
 | Ireland (IE) | 7 | 304 |
 | Austria (AT) | 7 | 8 |
@@ -75,6 +75,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 | Bosnia & Herzegovina (BA) | 5 | 5 |
 | Uzbekistan (UZ) | 5 | 5 |
 | Uruguay (UY) | 5 | 5 |
+| Slovakia (SK) | 4 | 4 |
 | Croatia (HR) | 4 | 4 |
 | Kuwait (KW) | 4 | 4 |
 | Kazakhstan (KZ) | 4 | 4 |
@@ -82,7 +83,6 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 | Bahrain (BH) | 4 | 4 |
 | Latvia (LV) | 3 | 3 |
 | Barbados (BB) | 3 | 3 |
-| Slovakia (SK) | 3 | 3 |
 | Georgia (GE) | 3 | 3 |
 | Lebanon (LB) | 3 | 3 |
 | Congo - Brazzaville (CG) | 3 | 3 |
@@ -108,7 +108,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 | Senegal (SN) | 2 | 2 |
 | North Macedonia (MK) | 2 | 2 |
 | Seychelles (SC) | 2 | 2 |
-| Qatar (QA) | 1 | 244 |
+| Qatar (QA) | 1 | 245 |
 | El Salvador (SV) | 1 | 1 |
 | Antigua & Barbuda (AG) | 1 | 1 |
 | Grenada (GD) | 1 | 1 |
@@ -136,31 +136,31 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| AS45102 Alibaba (US) Technology Co., Ltd. | 3791 | 18267 |
-| Unknown | 2850 | 32000 |
-| AS396982 Google LLC | 194 | 43276 |
+| AS45102 Alibaba (US) Technology Co., Ltd. | 3792 | 18357 |
+| Unknown | 2883 | 35777 |
+| AS396982 Google LLC | 194 | 43271 |
 | AS13335 Cloudflare, Inc. | 90 | 223 |
-| AS212238 Datacamp Limited | 72 | 1142 |
-| AS60068 Datacamp Limited | 69 | 3527 |
+| AS212238 Datacamp Limited | 71 | 1141 |
+| AS60068 Datacamp Limited | 69 | 3530 |
 | AS203020 HostRoyale Technologies Pvt Ltd | 51 | 206 |
-| AS20473 The Constant Company, LLC | 37 | 37 |
-| AS14061 DigitalOcean, LLC | 35 | 396 |
+| AS20473 The Constant Company, LLC | 36 | 36 |
+| AS14061 DigitalOcean, LLC | 35 | 401 |
 | AS62874 Web2Objects LLC | 30 | 30 |
 | AS18779 EGIHosting | 24 | 24 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 23 | 24 |
-| AS218785 Tc Datacenter Limited | 21 | 4034 |
+| AS218785 Tc Datacenter Limited | 21 | 4037 |
 | AS215125 Church of Cyberology | 20 | 27 |
 | AS55286 B2 Net Solutions Inc. | 18 | 18 |
 | AS48090 Techoff Srv Limited | 16 | 14075 |
 | AS60729 Stiftung Erneuerbare Freiheit | 12 | 12 |
-| AS202412 Omegatech LTD | 11 | 241 |
+| AS202412 Omegatech LTD | 11 | 229 |
 | AS47890 Unmanaged Ltd | 10 | 134 |
 | AS62744 Quintex Alliance Consulting | 10 | 10 |
 | AS14618 Amazon.com, Inc. | 8 | 340 |
 | AS16509 Amazon.com, Inc. | 7 | 1013 |
 | AS197170 TechTies Inc. | 6 | 325 |
 | AS32934 Facebook, Inc. | 6 | 6 |
-| AS34343 Eweka Internet Services B.V. | 5 | 1534 |
+| AS34343 Eweka Internet Services B.V. | 5 | 1604 |
 | AS132203 Tencent Building, Kejizhongyi Avenue | 5 | 1136 |
 | AS215599 Zkillu SAS | 5 | 38 |
 | AS31898 Oracle Corporation | 5 | 32 |
@@ -197,8 +197,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 | AS211720 Datashield, Inc. | 2 | 2 |
 | AS61125 Sabotage LLC | 2 | 2 |
 | AS197769 VPS Dedicated LLC | 1 | 534 |
-| AS208137 Feo Prest SRL | 1 | 357 |
-| AS211590 Bucklog SARL | 1 | 59 |
+| AS208137 Feo Prest SRL | 1 | 417 |
 | AS218751 Fontaine, LLC | 1 | 43 |
 | AS20326 TeraSwitch Networks Inc. | 1 | 39 |
 | AS56630 Melbikomas UAB | 1 | 31 |
@@ -314,5 +313,3 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 7633
 | AS60117 Host Sailor Ltd | 1 | 1 |
 | AS60404 The Infrastructure Group B.V. | 1 | 1 |
 | AS197540 netcup GmbH | 1 | 1 |
-| AS23860 Alliance Broadband Services Pvt. Ltd. | 1 | 1 |
-| AS6429 Telmex Chile Internet S.A. | 1 | 1 |
