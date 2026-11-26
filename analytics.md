@@ -1,50 +1,50 @@
 # Mitigated IPs
 
-Requests blocked by restricted file and path WAF rules in the last 30 days: 12835 IPs, 159550 requests.
+Requests blocked by restricted file and path WAF rules in the last 30 days: 13276 IPs, 163927 requests.
 
 ## By country
 
 | Country | IPs | Requests |
 | --- | ---: | ---: |
-| United States (US) | 5071 | 17334 |
-| Singapore (SG) | 3846 | 26679 |
+| United States (US) | 5436 | 17643 |
+| Singapore (SG) | 3846 | 26998 |
 | Brazil (BR) | 726 | 3512 |
-| United Kingdom (GB) | 363 | 2048 |
-| Belgium (BE) | 262 | 53040 |
-| France (FR) | 260 | 2432 |
-| Germany (DE) | 227 | 4306 |
+| United Kingdom (GB) | 391 | 2078 |
+| France (FR) | 282 | 2479 |
+| Belgium (BE) | 275 | 55421 |
+| Germany (DE) | 236 | 4336 |
 | Poland (PL) | 211 | 316 |
 | Argentina (AR) | 130 | 130 |
 | Vietnam (VN) | 126 | 126 |
 | Mexico (MX) | 122 | 159 |
 | Ukraine (UA) | 102 | 103 |
 | Italy (IT) | 96 | 1314 |
-| Chile (CL) | 62 | 1770 |
+| Chile (CL) | 62 | 1768 |
 | Colombia (CO) | 62 | 62 |
 | Peru (PE) | 61 | 61 |
 | Russia (RU) | 58 | 58 |
 | Venezuela (VE) | 58 | 58 |
-| Netherlands (NL) | 47 | 5871 |
-| Lithuania (LT) | 44 | 3812 |
-| Romania (RO) | 40 | 183 |
-| Bulgaria (BG) | 36 | 14457 |
+| Netherlands (NL) | 47 | 6086 |
+| Lithuania (LT) | 44 | 3793 |
+| Romania (RO) | 40 | 174 |
+| Bulgaria (BG) | 37 | 14964 |
 | Bangladesh (BD) | 36 | 36 |
 | Ecuador (EC) | 35 | 35 |
 | Pakistan (PK) | 28 | 28 |
-| Canada (CA) | 26 | 1786 |
+| Canada (CA) | 25 | 1541 |
 | Portugal (PT) | 25 | 25 |
 | Indonesia (ID) | 24 | 1016 |
-| Taiwan (TW) | 23 | 581 |
+| Sweden (SE) | 24 | 856 |
+| Taiwan (TW) | 23 | 598 |
 | Morocco (MA) | 23 | 23 |
 | Albania (AL) | 22 | 22 |
-| Sweden (SE) | 21 | 561 |
 | Philippines (PH) | 21 | 21 |
-| Hong Kong SAR China (HK) | 20 | 2574 |
-| India (IN) | 18 | 2784 |
+| Hong Kong SAR China (HK) | 20 | 2594 |
+| India (IN) | 17 | 2542 |
 | United Arab Emirates (AE) | 17 | 17 |
 | Dominican Republic (DO) | 17 | 17 |
 | Tunisia (TN) | 17 | 17 |
-| Japan (JP) | 15 | 3751 |
+| Japan (JP) | 15 | 3778 |
 | Hungary (HU) | 15 | 15 |
 | South Africa (ZA) | 15 | 15 |
 | South Korea (KR) | 14 | 1702 |
@@ -54,7 +54,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 | Honduras (HN) | 12 | 12 |
 | Serbia (RS) | 12 | 12 |
 | Israel (IL) | 11 | 1231 |
-| Ireland (IE) | 10 | 376 |
+| Ireland (IE) | 10 | 382 |
 | Slovakia (SK) | 10 | 10 |
 | Spain (ES) | 9 | 741 |
 | Thailand (TH) | 9 | 400 |
@@ -66,11 +66,11 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 | Croatia (HR) | 8 | 8 |
 | Costa Rica (CR) | 8 | 8 |
 | Uruguay (UY) | 8 | 8 |
-| Switzerland (CH) | 7 | 1474 |
+| Switzerland (CH) | 7 | 1714 |
+| Australia (AU) | 7 | 521 |
 | Latvia (LV) | 7 | 7 |
 | Algeria (DZ) | 7 | 7 |
 | Jordan (JO) | 7 | 7 |
-| Australia (AU) | 6 | 250 |
 | Finland (FI) | 6 | 104 |
 | Moldova (MD) | 6 | 6 |
 | Bosnia & Herzegovina (BA) | 6 | 6 |
@@ -93,6 +93,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 | Kazakhstan (KZ) | 4 | 4 |
 | Nigeria (NG) | 4 | 4 |
 | Bahrain (BH) | 4 | 4 |
+| China (CN) | 3 | 297 |
 | Czechia (CZ) | 3 | 5 |
 | North Macedonia (MK) | 3 | 3 |
 | Malta (MT) | 3 | 3 |
@@ -103,8 +104,7 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 | Ethiopia (ET) | 3 | 3 |
 | Saudi Arabia (SA) | 3 | 3 |
 | Azerbaijan (AZ) | 3 | 3 |
-| Slovenia (SI) | 2 | 1243 |
-| China (CN) | 2 | 296 |
+| Slovenia (SI) | 2 | 1422 |
 | Qatar (QA) | 2 | 246 |
 | St. Lucia (LC) | 2 | 2 |
 | Haiti (HT) | 2 | 2 |
@@ -140,35 +140,34 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 
 | ASN | IPs | Requests |
 | --- | ---: | ---: |
-| Unknown | 8079 | 63647 |
-| AS45102 Alibaba (US) Technology Co., Ltd. | 3818 | 25015 |
-| AS396982 Google LLC | 143 | 36426 |
-| AS212238 Datacamp Limited | 101 | 1568 |
+| Unknown | 8526 | 67989 |
+| AS45102 Alibaba (US) Technology Co., Ltd. | 3818 | 25340 |
+| AS396982 Google LLC | 139 | 35751 |
+| AS212238 Datacamp Limited | 101 | 1566 |
 | AS13335 Cloudflare, Inc. | 89 | 222 |
-| AS203020 HostRoyale Technologies Pvt Ltd | 83 | 321 |
-| AS60068 Datacamp Limited | 64 | 4161 |
-| AS20473 The Constant Company, LLC | 43 | 198 |
-| AS62874 Web2Objects LLC | 43 | 43 |
-| AS55286 B2 Net Solutions Inc. | 40 | 42 |
+| AS203020 HostRoyale Technologies Pvt Ltd | 83 | 329 |
+| AS60068 Datacamp Limited | 64 | 4159 |
+| AS62874 Web2Objects LLC | 45 | 45 |
+| AS20473 The Constant Company, LLC | 42 | 200 |
+| AS55286 B2 Net Solutions Inc. | 41 | 44 |
 | AS14061 DigitalOcean, LLC | 33 | 386 |
 | AS18779 EGIHosting | 32 | 35 |
 | AS207990 HostRoyale Technologies Pvt Ltd | 25 | 31 |
-| AS218785 Tc Datacenter Limited | 18 | 3736 |
-| AS48090 Techoff Srv Limited | 16 | 16201 |
-| AS47890 Unmanaged Ltd | 9 | 132 |
+| AS218785 Tc Datacenter Limited | 18 | 3742 |
+| AS48090 Techoff Srv Limited | 17 | 16593 |
+| AS47890 Unmanaged Ltd | 9 | 123 |
 | AS16509 Amazon.com, Inc. | 7 | 1013 |
-| AS14618 Amazon.com, Inc. | 7 | 338 |
+| AS203061 UAB code200 | 7 | 7 |
 | AS32934 Facebook, Inc. | 7 | 7 |
-| AS203061 UAB code200 | 6 | 6 |
+| AS14618 Amazon.com, Inc. | 6 | 190 |
 | AS34343 Eweka Internet Services B.V. | 5 | 1713 |
 | AS132203 Tencent Building, Kejizhongyi Avenue | 5 | 1136 |
-| AS197170 TechTies Inc. | 4 | 73 |
+| AS197170 TechTies Inc. | 4 | 75 |
 | AS396356 Latitude.sh | 4 | 6 |
 | AS12389 Rostelecom | 4 | 4 |
 | AS199457 SolidCore Hosting LTD | 3 | 222 |
-| AS403005 Blatant | 3 | 104 |
-| AS202412 Omegatech LTD | 3 | 58 |
-| AS11878 tzulo, inc. | 3 | 51 |
+| AS403005 Blatant | 3 | 102 |
+| AS11878 tzulo, inc. | 3 | 45 |
 | AS31898 Oracle Corporation | 3 | 27 |
 | AS215599 Zkillu SAS | 3 | 22 |
 | AS14956 RouterHosting LLC | 3 | 7 |
@@ -185,10 +184,9 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 | AS2860 Nos Comunicacoes, S.A. | 2 | 2 |
 | AS6079 RCN | 2 | 2 |
 | AS46261 QuickPacket, LLC | 2 | 2 |
-| AS36459 GitHub, Inc. | 2 | 2 |
-| AS197769 VPS Dedicated LLC | 1 | 1242 |
-| AS208137 Feo Prest SRL | 1 | 477 |
-| AS20326 TeraSwitch Networks Inc. | 1 | 333 |
+| AS197769 VPS Dedicated LLC | 1 | 1421 |
+| AS208137 Feo Prest SRL | 1 | 501 |
+| AS20326 TeraSwitch Networks Inc. | 1 | 332 |
 | AS56630 Melbikomas UAB | 1 | 57 |
 | AS218751 Fontaine, LLC | 1 | 43 |
 | AS399979 49.3 Networking LLC | 1 | 26 |
@@ -197,12 +195,12 @@ Requests blocked by restricted file and path WAF rules in the last 30 days: 1283
 | AS213790 Limited Network LTD | 1 | 10 |
 | AS149440 Evoxt Sdn. Bhd. | 1 | 6 |
 | AS150670 WLX Limited | 1 | 4 |
-| AS53667 FranTech Solutions | 1 | 4 |
 | AS21859 Zenlayer Inc | 1 | 3 |
 | AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 1 | 3 |
 | AS12874 Fastweb | 1 | 2 |
 | AS51167 Contabo GmbH | 1 | 2 |
 | AS12876 Scaleway SAS | 1 | 2 |
+| AS141679 China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch | 1 | 1 |
 | AS147049 PacketHub S.A. | 1 | 1 |
 | AS701 Verizon Business | 1 | 1 |
 | AS7922 Comcast Cable Communications, LLC | 1 | 1 |
